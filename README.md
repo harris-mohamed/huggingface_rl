@@ -46,7 +46,3 @@ huggingface_rl/
 
 - [HuggingFace Deep RL Course](https://huggingface.co/deep-rl-course/unit0/introduction)
 - [HuggingFace RL Library Documentation](https://github.com/huggingface/deep-rl-class)
-
-## License
-
-MIT License
